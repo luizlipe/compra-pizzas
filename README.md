@@ -21,7 +21,7 @@ Bem-vindo ao **Pizza Shop**, um projeto simples para gerenciar pedidos e compras
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd pizza-shop
+   cd compra-pizzas
    ```
 
 3. Abra o arquivo `index.html` em seu navegador para acessar o sistema.
